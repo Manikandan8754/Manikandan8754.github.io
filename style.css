@@ -12,7 +12,7 @@
     text-transform: capitalize;
     transition: all .3s cubic-bezier(0.39, 1.575, 7, 1.12);
     font-weight: normal;
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
 *::selection{
     background: var(--green);
@@ -115,7 +115,7 @@ header .navbar a:hover{
 }
 .home .content p{
     font-size: 2rem;
-    color:black;
+    color:rgb(255, 197, 6);
     padding: 1rem 0;
 }
 
