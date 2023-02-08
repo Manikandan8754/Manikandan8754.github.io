@@ -99,7 +99,7 @@ header .navbar a:hover{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background:url('E:/JAVASCRIPT/My%20Project/Fresh-Healthy-Food-PNG-HD.png');
+    background:url('images/fresh.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
